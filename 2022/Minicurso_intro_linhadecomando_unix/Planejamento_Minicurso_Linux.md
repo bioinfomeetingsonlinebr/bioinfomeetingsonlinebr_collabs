@@ -9,7 +9,7 @@ Created: May 16, 2022 3:19 PM
     - **Shell:** é a interface entre o usuário e o Kernel
     - **Aplicativos:** comandos
 
-![HIREMATH, J. **Difference between kernel and shell - Jagadish Hiremath**. Disponível em: <https://jaguhiremath62.medium.com/difference-between-kernel-and-shell-718b3de15be6>. Acesso em: 19 maio. 2022.](Planejamento_para_o_Minicurso_Linux/Untitled.png)
+![HIREMATH, J. **Difference between kernel and shell - Jagadish Hiremath**. Disponível em: <https://jaguhiremath62.medium.com/difference-between-kernel-and-shell-718b3de15be6>. Acesso em: 19 maio. 2022.](Untitled.png)
 
 HIREMATH, J. **Difference between kernel and shell - Jagadish Hiremath**. Disponível em: <https://jaguhiremath62.medium.com/difference-between-kernel-and-shell-718b3de15be6>. Acesso em: 19 maio. 2022.
 
@@ -37,11 +37,11 @@ prompt comando parâmetro argumento
 
 - **prompt**: usuário + ‘@’ + nome do computador + ‘:’ + diretório atual + $ (*regular user*) ou # (*root user*)
 
-![Captura de tela de 2022-05-16 16-23-53.png](Planejamento_para_o_Minicurso_Linux/Captura_de_tela_de_2022-05-16_16-23-53.png)
+![Captura de tela de 2022-05-16 16-23-53.png](Captura_de_tela_de_2022-05-16_16-23-53.png)
 
-![Captura de tela de 2022-05-16 16-27-47.png](Planejamento_para_o_Minicurso_Linux/Captura_de_tela_de_2022-05-16_16-27-47.png)
+![Captura de tela de 2022-05-16 16-27-47.png](Captura_de_tela_de_2022-05-16_16-27-47.png)
 
-![Captura de tela de 2022-05-16 16-24-24.png](Planejamento_para_o_Minicurso_Linux/Captura_de_tela_de_2022-05-16_16-24-24.png)
+![Captura de tela de 2022-05-16 16-24-24.png](Captura_de_tela_de_2022-05-16_16-24-24.png)
 
 - **comando**: programa ou instrução textual que será executada
     - *built-in*: proveniente do sistema
@@ -111,7 +111,7 @@ mkdir --help
         
 - Os arquivos são divididos em uma estrutura hierárquica e tudo está dentro do diretório *root*
 
-![Untitled](Planejamento_para_o_Minicurso_Linux/Untitled_1.png)
+![Untitled](Untitled_1.png)
 
 - arquivos ocultos
     - `.` indica o diretório atual
